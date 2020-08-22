@@ -9,11 +9,8 @@ Here are some ideas to get you started:
 - 📫 reach me : chaudhary.mayank26@gmail.com
 - ⚡ Fun fact: 
         <br>    Studying is my drug.
-
      <br>  But thank god I say no to drugs.
-
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
-
 <p align="center">
   <a href="https://twitter.com/rado_mayank" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
