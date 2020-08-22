@@ -14,15 +14,6 @@ Here are some ideas to get you started:
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
-
-```
-  _   _                             _                         
- | \ | | _____   _____ _ __    __ _(_)_   _____   _   _ _ __  
- |  \| |/ _ \ \ / / _ \ '__|  / _` | \ \ / / _ \ | | | | '_ \ 
- | |\  |  __/\ V /  __/ |    | (_| | |\ V /  __/ | |_| | |_) |
- |_| \_|\___| \_/ \___|_|     \__, |_| \_/ \___|  \__,_| .__/ 
-                              |___/                    |_|    
-```
 <p align="center">
   <a href="https://twitter.com/rado_mayank" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
