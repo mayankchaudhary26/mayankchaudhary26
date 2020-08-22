@@ -10,7 +10,16 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-mayank-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:chaudhary.mayank26@gmail.com)](mailto:chaudhary.mayank26@gmail.com) 
 - ⚡ Fun fact: 
         <br>    Studying is my drug.
-     <br>  But thank god I say no to drugs.
+     <br>  But thank god I say no to drugs.<div align='center'>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,16,0" id="game" height="450" width="550">
+<param name="movie" value="http://www.cricketgames.me/games/swf/dominator-cup.swf" />
+<param name="quality" value="high" />
+<param name="allowscriptaccess" value="always" />
+<embed src="http://www.cricketgames.me/games/swf/dominator-cup.swf" height="450" width="550" quality="high" name="FlashContent" allowscriptaccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed>
+</object>
+<br /><a href='http://www.cricketgames.me/'>Cricket Games</a>
+</div>
+     
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 <p align="center">
   <a href="https://dev.to/mayankchaudhary26">
