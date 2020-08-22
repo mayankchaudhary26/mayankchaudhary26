@@ -2,15 +2,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently an Engineering Student
+- 🔭 I’m currently an Engineering Student. A former member of IEEE society of MSIT college , who loves to contribute on different blogging platforms. I exhibit an eager to learn new things and adapt . Being a technology-enthusiast, I love to explore new technologies .
 - 🌱 Currently training on Machine Learning specialization
 - 👯 Looking for intern opportunities
-- 💬 Here's my    Medium profile : https://medium.com/@chaudhary.mayank26
-                // devRant profile : https://devrant.com/users/mayank26
-- 📫 reach me : https://www.linkedin.com/in/mayank-choudhary-0209a3175/
+- 💬 Here's my devRant profile : https://devrant.com/users/mayank26
+- 📫 reach me : chaudhary.mayank26@gmail.com
 - ⚡ Fun fact: 
                How do functions break up?
-            They just stop calling each other!
+     <br>  They just stop calling each other!
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
