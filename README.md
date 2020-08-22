@@ -3,10 +3,10 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently an Engineering Student
-- 🌱 I’m currently learning ML
-- 👯 I’m looking for intern opportunities
+- 🌱 Currently training on Machine Learning specialization
+- 👯 Looking for intern opportunities
 - 💬 Here's my    Medium profile : https://medium.com/@chaudhary.mayank26
-                 devRant profile : https://devrant.com/users/mayank26
+                // devRant profile : https://devrant.com/users/mayank26
 - 📫 reach me : https://www.linkedin.com/in/mayank-choudhary-0209a3175/
 - ⚡ Fun fact: 
                How do functions break up?
