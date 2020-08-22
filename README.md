@@ -14,6 +14,17 @@ Here are some ideas to get you started:
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
+
+```
+  _   _                             _                         
+ | \ | | _____   _____ _ __    __ _(_)_   _____   _   _ _ __  
+ |  \| |/ _ \ \ / / _ \ '__|  / _` | \ \ / / _ \ | | | | '_ \ 
+ | |\  |  __/\ V /  __/ |    | (_| | |\ V /  __/ | |_| | |_) |
+ |_| \_|\___| \_/ \___|_|     \__, |_| \_/ \___|  \__,_| .__/ 
+                              |___/                    |_|    
+```
+
+
 <!--
 **mayankchaudhary26/mayankchaudhary26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
