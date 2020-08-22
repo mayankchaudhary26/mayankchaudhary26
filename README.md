@@ -8,8 +8,9 @@ Here are some ideas to get you started:
 - 💬 Here's my devRant profile : https://devrant.com/users/mayank26
 - 📫 reach me : chaudhary.mayank26@gmail.com
 - ⚡ Fun fact: 
-               How do functions break up?
-     <br>  They just stop calling each other!
+        <br>    Studying is my drug.
+
+     <br>  But thank god I say no to drugs.
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
