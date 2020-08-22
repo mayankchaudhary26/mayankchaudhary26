@@ -6,16 +6,15 @@ Here are some ideas to get you started:
 - 🌱 Currently training on Machine Learning specialization
 - 👯 Looking for intern opportunities
 - 💬 Here's my devRant profile : https://devrant.com/users/mayank26
-      <br><a href="https://dev.to/mayankchaudhary26">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mayank Choudhary's DEV Profile" height="30" width="30">
-</a>
-
-<br>- 📫 reach me : chaudhary.mayank26@gmail.com
+- 📫 reach me : chaudhary.mayank26@gmail.com
 - ⚡ Fun fact: 
         <br>    Studying is my drug.
      <br>  But thank god I say no to drugs.
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 <p align="center">
+  <a href="https://dev.to/mayankchaudhary26">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mayank Choudhary's DEV Profile" height="30" width="30">
+   </a>
   <a href="https://twitter.com/rado_mayank" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
   </a>
