@@ -6,10 +6,11 @@ Here are some ideas to get you started:
 - 🌱 Currently training on Machine Learning specialization
 - 👯 Looking for intern opportunities
 - 💬 Here's my devRant profile : https://devrant.com/users/mayank26
-<a href="https://dev.to/mayankchaudhary26">
+      <br><a href="https://dev.to/mayankchaudhary26">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mayank Choudhary's DEV Profile" height="30" width="30">
 </a>
-- 📫 reach me : chaudhary.mayank26@gmail.com
+
+<br>- 📫 reach me : chaudhary.mayank26@gmail.com
 - ⚡ Fun fact: 
         <br>    Studying is my drug.
      <br>  But thank god I say no to drugs.
