@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-- 🔭 I'm a third year engineering student at MSIT. A former member of IEEE society(http://ieee.msit.in/) of MSIT college. Just love to contribute on different blogging platforms. I exhibit an eager to learn new things and adapt . Being a technology-enthusiast, I love to explore new technologies .
+- 🔭 I'm a third year engineering student at MSIT,new delhi . A former member of IEEE society(http://ieee.msit.in/) of MSIT college . Just love to contribute on different blogging platforms . I exhibit an eager to learn new things and adapt . Being a technology-enthusiast, I love to explore new technologies .
 - 🌱 Currently training on Machine Learning specialization
 - 👯 Looking for intern opportunities
 - 💬 Here's my devRant profile : https://devrant.com/users/mayank26
