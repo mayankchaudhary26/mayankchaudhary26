@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 <br>
-<img align="center" src="https://github-readme-7ma7X.vercel.app/api?username=mayankchaudhary26&hide_title=true&show_icons=true&theme=tokyonight" />
+<img align="right" src="https://github-readme-7ma7X.vercel.app/api?username=mayankchaudhary26&hide_title=true&show_icons=true&theme=tokyonight" />
 <br>
 
 <!--
