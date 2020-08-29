@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
         <br>    Studying is my drug.
      <br>  But thank god I say no to drugs.<div align='center'>
+        ![](https://komarev.com/ghpvc/?username=mayankchaudhary26&color=brightgreen)
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 <p align="center">
   <a href="https://dev.to/mayankchaudhary26">
