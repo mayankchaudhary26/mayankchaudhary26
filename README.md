@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-7ma7X.vercel.app/api?username=mayankchaudhary26&hide_title=true&show_icons=true&theme=tokyonight" />
 <br>
 
-mayank's followers :
 <br>
 [@get-satyam](https://github.com/get-satyam) | [@dshubham25](https://github.com/dshubham25) | [@devang-7](https://github.com/devang-7) 
 
+<br>
 <img align='center' src='https://avatars3.githubusercontent.com/u/42931933?s=400&u=46a1e5f255ea078bbe5ef5e4145bcb85de70fd59&v=4' width='100'> | <img align='center' src='https://avatars2.githubusercontent.com/u/44778453?s=400&u=a39c08020d55a9916613e294aec148d1467add49&v=4' width='100'> | <img align='center' src='https://avatars0.githubusercontent.com/u/56135357?s=400&u=3ebf5dc8993303d0f9a3f61516ef93daf1ff70dd&v=4' width='100'>
 
 
