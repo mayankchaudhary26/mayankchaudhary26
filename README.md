@@ -1,7 +1,7 @@
 ### Hi there , I'm Mayank Choudhary aka Rado 👋
 
 Here are some ideas to get you started:
-<img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="300px" src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' />
 - 🔭 I'm a third year engineering student at MSIT, Delhi. A core team member of DSC MSIT https://dsc.msit.in. I exhibit an eager to learn new things and adapt. Being a technology-enthusiast, I love to contribute on different blogging platforms & explore new technologies.
 - 🌱 Currently training on Machine Learning & Deep Neural Network specialization
 - 👯 Looking for intern opportunities
