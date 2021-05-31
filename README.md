@@ -7,9 +7,8 @@ Here are some ideas to get you started:
 - 👯 Looking for intern opportunities
 - 📫 reach me :
 [![Gmail Badge](https://img.shields.io/badge/-mayank-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:chaudhary.mayank26@gmail.com)](mailto:chaudhary.mayank26@gmail.com) 
-- ⚡ Fun fact: 
-        <br>    Studying is my drug.
-     <br>  But thank god I say no to drugs.<div align='center'>
+- ⚡     Studying is my drug.
+     <br>But thank god I say no to drugs.<div align='center'>
         ![](https://komarev.com/ghpvc/?username=mayankchaudhary26&color=brightgreen)
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 <p align="center">
