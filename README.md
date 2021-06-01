@@ -3,8 +3,7 @@
 Here are some ideas to get you started:
 <img align="right" alt="GIF" height="300px" src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' />
 - 🔭 I'm a third year engineering student at MSIT, Delhi. A core team member of DSC MSIT https://dsc.msit.in. I exhibit an eager to learn new things and adapt. Being a technology-enthusiast, I love to contribute on different blogging platforms & explore new technologies.
-- 🌱 Currently training on Machine Learning & Deep Neural Network specialization
-- 👯 Looking for intern opportunities
+- 🌱 Currently training on Machine Learning & Deep Neural Network specialization.
 - 📫 reach me :
 [![Gmail Badge](https://img.shields.io/badge/-mayank-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:chaudhary.mayank26@gmail.com)](mailto:chaudhary.mayank26@gmail.com) 
 - ⚡     Studying is my drug.
@@ -36,4 +35,4 @@ Here are some ideas to get you started:
 
 <!--
 **mayankchaudhary26/mayankchaudhary26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- 👯 Looking for intern opportunities
