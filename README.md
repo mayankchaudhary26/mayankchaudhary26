@@ -9,12 +9,19 @@ Here are some ideas to get you started:
 - ⚡     Studying is my drug.
      <br>But thank god I say no to drugs.<div align='center'>
         ![](https://komarev.com/ghpvc/?username=mayankchaudhary26&color=brightgreen)
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
-     
-### Watch my contribution graph get eaten by the snake 🐍
+
+###    Watch my contribution graph get eaten by the snake 🐍
 
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
-![mayankchaudhary26 snake gif](https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.svg)
+![mayankchaudhary26 snake gif](https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.svg)      
+
+![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)     
+     
+<p align="center">     
+<!--[mayankchaudhary26 skyline gif]-->
+<img src="https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/.github/workflows/ezgif.com-gif-maker.gif" height="350" width="800">     
+        
+
      
 <p align="center">
   <a href="https://dev.to/mayankchaudhary26">
