@@ -13,7 +13,7 @@ Here are some ideas to get you started:
      
 ### Watch my contribution graph get eaten by the snake 🐍
 
-<!-- platane/snk works, it just puts it on a new branch -->
+<!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
 ![mayankchaudhary26 snake gif](https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.svg)
      
 <p align="center">
