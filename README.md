@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)     
      
 <p align="center">     
-<!--[mayankchaudhary26 skyline gif]-->
+<!--[mayankchaudhary26 skyline gif]   get yours from here: https://skyline.github.com/    -->
 <img src="https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/.github/workflows/ezgif.com-gif-maker.gif" height="350" width="800">     
         
 
