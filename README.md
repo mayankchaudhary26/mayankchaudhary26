@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 <img align="right" alt="GIF" height="300px" src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' />
 - 🔭 I'm a final year engineering student at MSIT, Delhi. A core team member of DSC MSIT https://m.facebook.com/dscmsit. I exhibit an eager to learn new things and adapt. Being a technology-enthusiast, I love to contribute on different blogging platforms & explore new technologies. Currently enhancing my analytical skills.
-- 🌱 Currently training on Machine Learning & Deep Neural Network specialization.
+- 🌱 Training on Machine Learning & Deep Neural Network specialization.
 - 📫 reach me :
 [![Gmail Badge](https://img.shields.io/badge/-mayank-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:chaudhary.mayank26@gmail.com)](mailto:chaudhary.mayank26@gmail.com) 
 - ⚡     Studying is my drug.
