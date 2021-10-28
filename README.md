@@ -2,7 +2,7 @@
 <img align="center" alt="GIF" height="400px" src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/My%20Post.jpg' />
 
 Here are some ideas to get you started:
-<img align="right" alt="GIF" height="300px" src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' />
+<img align="right" alt="GIF" height="300px" src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/Twilio-Hero.png ' />
 
 - 🔭 Engineering student at MSIT, Delhi https://www.msit.in 
 - ✨ A core team member of DSC MSIT https://dscmsit.github.io. 
@@ -54,5 +54,7 @@ Here are some ideas to get you started:
 <br>
 
 <!--
+
+https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif
 **mayankchaudhary26/mayankchaudhary26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 👯 Looking for intern opportunities
