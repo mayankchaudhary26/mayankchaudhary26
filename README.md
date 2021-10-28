@@ -1,8 +1,11 @@
-### Hi there , I'm Mayank Choudhary aka Rado 👋
+
+<img align="center" alt="GIF" height="500px" src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/My%20Post.jpg' />
 
 Here are some ideas to get you started:
 <img align="right" alt="GIF" height="300px" src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' />
-- 🔭 I’m a final-year engineering student at MSIT, Delhi. A core team member of DSC MSIT https://dscmsit.github.io. I exhibit an eagerness to learn new things and adapt. Being a technology enthusiast, I love to contribute to different blogging platforms & explore new technologies. Currently enhancing my analytical skills.
+
+- 🔭 Engineering student at MSIT, Delhi https://www.msit.in 
+- ✨ A core team member of DSC MSIT https://dscmsit.github.io. 
 - 🌱 Training on Machine Learning & Deep Neural Network specialization.
 - 📫 reach me :
 [![Gmail Badge](https://img.shields.io/badge/-mayank-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:chaudhary.mayank26@gmail.com)](mailto:chaudhary.mayank26@gmail.com) 
