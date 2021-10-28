@@ -1,5 +1,5 @@
 
-<img align="center" alt="GIF" height="500px" src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/My%20Post.jpg' />
+<img align="center" alt="GIF" height="450px" src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/My%20Post.jpg' />
 
 Here are some ideas to get you started:
 <img align="right" alt="GIF" height="300px" src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' />
