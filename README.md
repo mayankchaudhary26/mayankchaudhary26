@@ -2,7 +2,8 @@
 <img align="center" alt="GIF" height="400px" src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/My%20Post.jpg' />
 
 Here are some ideas to get you started:
-<img align="right" alt="GIF" height="300px" src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/Twilio-Hero.png ' />
+<img align="right" alt="GIF" height="300px" src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/5714259.gif' />
+
 
 - 🔭 Engineering student at MSIT, Delhi https://www.msit.in 
 - ✨ A core team member of DSC MSIT https://dscmsit.github.io. 
