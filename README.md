@@ -1,5 +1,5 @@
 
-<img align="center" alt="GIF" height="400px" src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/My%20Post.jpg' />
+<img align="center" alt="GIF" height="450px" src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/My%20Post.jpg' />
  <br>
  <br>
 Here are some ideas to get you started:
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
      <br>But thank god I say no to drugs.<div align='center'>
         ![](https://komarev.com/ghpvc/?username=mayankchaudhary26&color=brightgreen)
 
-     <br>
+     
      <br>
 ###    Watch my contribution graph get eaten by the snake 🐍
 
