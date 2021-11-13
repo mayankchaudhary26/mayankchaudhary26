@@ -1,7 +1,8 @@
 
 <img align="center" alt="GIF" height="450px" src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/My%20Post.jpg' />
 
- 
+  <br>
+  
 ####       Here are some ideas to get you started:
 
 <img align="right" alt="GIF" height="380px" src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/Better%20call%20rado!.gif' />
@@ -19,7 +20,7 @@
 
      
      <br>
-###    Watch my contribution graph get eaten by the snake 🐍
+###    Watch my contribution graph get eaten by the snake🐍
 
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
 ![mayankchaudhary26 snake gif](https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.svg)      
