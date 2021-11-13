@@ -9,7 +9,7 @@
 
  <br>
 
-- 🔭 Engineering student at MSIT, Delhi https://www.msit.in 
+- 🔭 I'm an engineering student at MSIT, Delhi https://www.msit.in 
 - ✨ A core team member of DSC MSIT https://dscmsit.github.io. 
 - 🌱 Training on Machine Learning & Deep Neural Network specialization.
 - 📫 reach me :
