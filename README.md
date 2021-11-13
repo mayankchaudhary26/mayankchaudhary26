@@ -1,9 +1,12 @@
 
 <img align="center" alt="GIF" height="400px" src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/My%20Post.jpg' />
-
+ <br>
+ <br>
 Here are some ideas to get you started:
+
 <img align="right" alt="GIF" height="350px" src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/Better%20call%20rado!.gif' />
 
+ <br>
 
 - 🔭 Engineering student at MSIT, Delhi https://www.msit.in 
 - ✨ A core team member of DSC MSIT https://dscmsit.github.io. 
