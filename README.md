@@ -2,7 +2,7 @@
 <img align="center" alt="GIF" height="400px" src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/My%20Post.jpg' />
 
 Here are some ideas to get you started:
-<img align="right" alt="GIF" height="300px" src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/Better%20call%20rado!.gif' />
+<img align="right" alt="GIF" height="400px" src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/Better%20call%20rado!.gif' />
 
 
 - 🔭 Engineering student at MSIT, Delhi https://www.msit.in 
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
      <br>But thank god I say no to drugs.<div align='center'>
         ![](https://komarev.com/ghpvc/?username=mayankchaudhary26&color=brightgreen)
 
+     <br>
+     <br>
 ###    Watch my contribution graph get eaten by the snake 🐍
 
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
