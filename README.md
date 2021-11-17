@@ -11,7 +11,7 @@
 
 - 🔭 I'm an engineering student at MSIT, Delhi https://www.msit.in 
 - ✨ A core team member of DSC MSIT https://dscmsit.github.io. 
-- 🌱 Training on Machine Learning & Deep Neural Network specialization.
+- 🌱 Looking for opportunities.
 - 📫 reach me :
 [![Gmail Badge](https://img.shields.io/badge/-mayank-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:chaudhary.mayank26@gmail.com)](mailto:chaudhary.mayank26@gmail.com) 
 - ⚡     Studying is my drug.
