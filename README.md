@@ -11,11 +11,6 @@
 - 🔭 I'm an engineering student at MSIT, Delhi https://www.msit.in 
 - ✨ A core team member of DSC MSIT https://dscmsit.github.io. 
 - 🌱 Looking for opportunities. 
-      My Resume - https://drive.google.com/file/d/1OtlW8Vl6TuQ6HaL4hVbszTcSl-p5_iSF/view?usp=sharing
-      <br>
-
-    
-    
 - 📫 reach me :
 [![Gmail Badge](https://img.shields.io/badge/-mayank-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:chaudhary.mayank26@gmail.com)](mailto:chaudhary.mayank26@gmail.com) 
 - ⚡     Studying is my drug.
