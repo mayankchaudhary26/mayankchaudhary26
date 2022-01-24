@@ -2,17 +2,20 @@
 <img align="center" alt="GIF" height="450px" src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/My%20Post.jpg' />
 
   <br>
-  
+
 ####       Here are some ideas to get you started:
 
 <img align="right" alt="GIF" height="380px" src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/Main%20gif%20-%20Better%20call%20rado!.gif' />
-
- <br>
+  
 
 - 🔭 I'm an engineering student at MSIT, Delhi https://www.msit.in 
 - ✨ A core team member of DSC MSIT https://dscmsit.github.io. 
 - 🌱 Looking for opportunities. 
       My Resume - https://drive.google.com/file/d/1OtlW8Vl6TuQ6HaL4hVbszTcSl-p5_iSF/view?usp=sharing
+      <br>
+
+    
+    
 - 📫 reach me :
 [![Gmail Badge](https://img.shields.io/badge/-mayank-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:chaudhary.mayank26@gmail.com)](mailto:chaudhary.mayank26@gmail.com) 
 - ⚡     Studying is my drug.
@@ -21,6 +24,7 @@
 
      
      <br>
+
 ###    Watch my contribution graph get eaten by the snake🐍
 
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
@@ -30,8 +34,7 @@
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)    
      
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mayankchaudhary26&theme=highcontrast&background=0F0943)](https://git.io/streak-stats) -->  
-     
-     
+      
 <p align="center">     
 <!--[mayankchaudhary26 skyline gif]   get yours from here: https://skyline.github.com/    -->
 <img src="https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/.github/workflows/ezgif.com-gif-maker.gif" height="350" width="800">     
@@ -60,7 +63,12 @@
     
 </p>
 <br>
-
+<p align="center">
+  
+  <img src="http://ForTheBadge.com/images/badges/built-with-swag.svg" alt="Mayank Choudhary's DEV Profile" height="30" width="150">
+   </a>    
+ <br>
+ 
 <!--
 
 https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif
