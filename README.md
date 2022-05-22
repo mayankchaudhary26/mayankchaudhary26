@@ -4,9 +4,8 @@
   <br>
 
 ####       Here are some ideas to get you started:
-
-<img align="right" alt="GIF" height="380px" src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/Main%20gif%20-%20Better%20call%20rado!.gif' />
-  
+<p align="center">   
+  <img src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/Main%20gif%20-%20Better%20call%20rado!.gif' height="380" width="350">
 
 - 🔭 I'm an engineering student at MSIT, Delhi https://www.msit.in 
 - ✨ A core team member of DSC MSIT https://dscmsit.github.io. 
