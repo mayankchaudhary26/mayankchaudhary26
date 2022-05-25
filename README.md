@@ -2,12 +2,12 @@
 <img align="center" alt="GIF" height="450px" src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/Untitled%20design.gif' />
 
   <br>
-
-####       Here are some ideas to get you started:
+  
+####       Here are some ideas to get you started:                  https://mayankchaudhary26.github.io
 <p align="center">   
   <img src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/Main%20gif%20-%20Better%20call%20rado!.gif' height="380" width="350">
 
-- 🔭 I'm an engineering student at MSIT, Delhi https://www.msit.in 
+- 🔭 Engineering student at MSIT, Delhi 2022 
 - ✨ A core team member of DSC MSIT https://dscmsit.github.io. 
 - 🌱 Looking for opportunities. 
 - 📫 reach me :
