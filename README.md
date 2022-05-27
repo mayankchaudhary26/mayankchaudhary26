@@ -1,15 +1,14 @@
-
+<p align="center">
 <img align="center" alt="GIF" height="450px" src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/Untitled%20design.gif' />
 
   <br>
   
-####       Here are some ideas to get you started:                  https://mayankchaudhary26.github.io
-<p align="center">   
-  <img src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/Main%20gif%20-%20Better%20call%20rado!.gif' height="380" width="350">
+<p align="center">
 
-- 🔭 Engineering student at MSIT, Delhi 2022 
-- ✨ A core team member of DSC MSIT https://dscmsit.github.io. 
-- 🌱 Looking for opportunities. 
+  <img src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/Better%20call.gif' height="450" width="805">
+
+####       Here are some ideas to get you started:                  https://mayankchaudhary26.github.io
+
 - 📫 reach me :
 [![Gmail Badge](https://img.shields.io/badge/-mayank-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:chaudhary.mayank26@gmail.com)](mailto:chaudhary.mayank26@gmail.com) 
 - ⚡     Studying is my drug.
@@ -24,6 +23,7 @@
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
 ![mayankchaudhary26 snake gif](https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.svg)      
      
+<p align="center">
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)    
      
