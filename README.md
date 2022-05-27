@@ -1,11 +1,11 @@
 <p align="center">
-<img align="center" alt="GIF" height="450px" src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/Untitled%20design.gif' />
+<img align="center" alt="GIF" height="400px" src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/Untitled%20design.gif' />
 
   <br>
   
 <p align="center">
 
-  <img src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/Better%20call%20Rado.gif' height="400" width="805">
+  <img src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/Better%20call%20Rado.gif' height="400" width="710">
 
 ####       Here are some ideas to get you started:                  https://mayankchaudhary26.github.io
 
