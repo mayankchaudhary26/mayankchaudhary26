@@ -5,7 +5,7 @@
   
 <p align="center">
 
-  <img src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/Better%20call.gif' height="450" width="805">
+  <img src='github.com/mayankchaudhary26/mayankchaudhary26/blob/master/Better%20call%20Rado.gif' height="450" width="805">
 
 ####       Here are some ideas to get you started:                  https://mayankchaudhary26.github.io
 
