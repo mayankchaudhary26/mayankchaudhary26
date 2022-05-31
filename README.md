@@ -11,8 +11,8 @@
 
 - 📫 reach me :
 [![Gmail Badge](https://img.shields.io/badge/-mayank-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:chaudhary.mayank26@gmail.com)](mailto:chaudhary.mayank26@gmail.com) 
-- ⚡     Studying is my drug.
-     <br>But thank god I say no to drugs.<div align='center'>
+- ⚡  Engineering lad who loves football
+     <br><div align='center'>
         ![](https://komarev.com/ghpvc/?username=mayankchaudhary26&color=brightgreen)
 
      
