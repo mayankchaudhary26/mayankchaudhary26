@@ -4,10 +4,11 @@
 
   <br>
 -->
-## Hi there! I'm Mayank aka Rado
 <p align="center">
 
   <img src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/Better%20call%20Rado.gif' height="400" width="710">
+
+  ## Hi there! I'm Mayank Choudhary aka Rado
 
 ####       Here are some ideas to get you started:                  https://mayankchaudhary26.github.io
 
