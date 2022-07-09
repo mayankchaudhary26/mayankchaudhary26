@@ -1,8 +1,9 @@
+<!-- 
 <p align="center">
 <img align="center" alt="GIF" height="400px" src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/Untitled%20design.gif' />
 
   <br>
-  
+-->
 <p align="center">
 
   <img src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/Better%20call%20Rado.gif' height="400" width="710">
