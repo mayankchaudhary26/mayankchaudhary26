@@ -36,12 +36,18 @@ jobs:
       - run: git status
 
       # Push the changes
+      - name: Configure Git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+      
       - name: Push changes
-        uses: ad-m/github-push-action@v0.6.0  # Specify a version instead of 'master'
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
+        run: |
+          git add dist/github-contribution-grid-snake.gif dist/github-contribution-grid-snake.svg
+          git commit -m "Generate snake contribution graph"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: crazy-max/ghaction-github-pages@v3  # Updated to v3
         with:
@@ -50,7 +56,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
-
-
