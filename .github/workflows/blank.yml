@@ -35,12 +35,17 @@ jobs:
       # Show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
 
-      # Push the changes
+      # Configure Git
       - name: Configure Git
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-      
+
+      # Pull latest changes to avoid conflicts
+      - name: Pull latest changes
+        run: git pull origin master
+
+      # Push the changes
       - name: Push changes
         run: |
           git add dist/github-contribution-grid-snake.gif dist/github-contribution-grid-snake.svg
